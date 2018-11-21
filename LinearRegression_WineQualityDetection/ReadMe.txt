@@ -1,0 +1,2 @@
+This is an implimentation of the Linear Regression algorithm.  Here, it is used to predict the quality of a wine given its chemical composition.  Sample training data is given taken from UCI.
+The UCI Wine Quality dataset lists 11 chemical measurements of 4898 white wine samples as well as an overall quality per sample, as determined by wine connoisseurs.

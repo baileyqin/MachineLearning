@@ -1,0 +1,1 @@
+The K-means algorithm was implimented to cluster data.  two toy test datasets are given.

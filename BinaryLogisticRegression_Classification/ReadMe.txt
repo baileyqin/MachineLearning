@@ -1,0 +1,1 @@
+This is an implimentation of the Logistic regression algorithm used to solve the binary classification problem.  Sample data is given.  ToyData1 is linearly seperatable while ToyData2 is not.

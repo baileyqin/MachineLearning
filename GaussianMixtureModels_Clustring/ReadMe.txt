@@ -1,0 +1,1 @@
+The EM algorithm was used to fit a gaussian mixture model on a given dataset of clustered points. 

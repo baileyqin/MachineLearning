@@ -1,0 +1,1 @@
+This program predicts the probability of a given sequence as well as the most likely path in the hidden states using the Veterbi algorithm.  The sample DNA data is given.

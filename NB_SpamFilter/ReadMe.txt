@@ -1,0 +1,1 @@
+A Naive Bayes approach was used to develop a spam filter.  This filter was trained on the emails released during the 2001 Enron investigations. (dataset given)

@@ -1,0 +1,1 @@
+This is a Convolutional Neural Network/ Multi-layered Perceptron.  This is used to identify handwritten digits 0-9 written by students.

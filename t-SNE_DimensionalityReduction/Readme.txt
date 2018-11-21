@@ -1,0 +1,1 @@
+The t-Distributed Stochastic Neighbor Embedding (t-SNE) was implimented.  This is similar to PCA in which the dimensionality of a dataset is reduced.  However, the reduction is non linear.

@@ -1,0 +1,1 @@
+This is an implimentation of a 10-way classifier (with the softmax function) using the Logistic Regression algorithm.  This program will identify hand written digits from 0-9.  Training Data is provided.

@@ -1,0 +1,1 @@
+This is an implimentation of the K-nearest neighbors classification algorithm.  This algorithm is used to identify hand written digits written by students.  Sample data of 700 randomly selected images is given in mnist_subset.json.
